@@ -6,3 +6,4 @@ grep root /etc/passwd
 ps -ef
 ls
 
+ls
