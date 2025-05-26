@@ -40,3 +40,18 @@ ANSI Code	Color
 34	         Blue
 35	         Magenta
 36	          Cyan
+
+Variables concpet ----A shell variable is a character string in a shell that stores some value. It could be an integer, filename, string, or some shell command itself. Basically, it is a pointer to the actual data stored in memory.
+A variable name could contain any alphabet (a-z, A-Z), any digits (0-9), and an underscore ( _ ). However, a variable name must start with an alphabet or underscore. It can never start with a number.
+eg variable_name = <variable data>
+Variable Types
+We can discuss three main types of variables:
+
+1) Local Variable:
+   Variables which are specific to the current instance of shell. They are basically used within the shell, but not available for the program or other shells that are started from within the current shell.
+
+2) Environment Variable:
+   These variables are commonly used to configure the behavior script and programs that are run by shell. Environment variables are only created once, after which they can be used by any user.
+
+3) Shell Variables:
+   Variables that are set by shell itself and help shell to work with functions correctly. It contains both, which means it has both, some variables are Environment variable, and some are Local Variables.
