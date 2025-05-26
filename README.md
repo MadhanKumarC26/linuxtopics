@@ -8,3 +8,5 @@ exit status
 I/P
 O/P
 final o/P
+
+exaple
