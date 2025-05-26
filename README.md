@@ -8,5 +8,6 @@ exit status
 I/P
 O/P
 final o/P
-
+redirectors and 
+SED editors
 exaple
