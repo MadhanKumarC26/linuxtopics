@@ -54,4 +54,4 @@ We can discuss three main types of variables:
    These variables are commonly used to configure the behavior script and programs that are run by shell. Environment variables are only created once, after which they can be used by any user.
 
 3) Shell Variables:
-   Variables that are set by shell itself and help shell to work with functions correctly. It contains both,, which means it has both, some variables are Environment variable, and some are Local Variables.
+   Variables that are set by shell itself and help shell to work with functions correctly. It contains both,,, which means it has both, some variables are Environment variable, and some are Local Variables.
